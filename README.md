@@ -53,31 +53,31 @@
     <td align="center">125%</td>
     <td align="center"><a href="https://github.com/Cormax62/gnl">get_next_line</a></td>
     <td align="center">100%</td>
-    <td align="center"><a href="https://github.com/Cormax62/Printf">ft_printf</a></td>
+    <td align="center"><a href="https://github.com/Cormax62/ft_printf">ft_printf</a></td>
     <td align="center">100%</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Cormax62/Push_swap">push_swap</a></td>
     <td align="center">100%</td>
-    <td align="center"><a href="https://github.com/Cormax62/So_long">so_long</a></td>
+    <td align="center"><a href="https://github.com/Cormax62/so_long">so_long</a></td>
     <td align="center">125%</td>
-    <td align="center"><a href="https://github.com/Cormax62/Pipex">pipex</a></td>
-    <td align="center">125%</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Cormax62/Philopophers">philosophers</a></td>
-    <td align="center">125%</td>
-    <td align="center"><a href="https://github.com/Cormax62/Minishell">Minishell</a></td>
-    <td align="center">100%</td>
-    <td align="center"><a href="https://github.com/Cormax62/Cub3D">cub3d</a></td>
+    <td align="center"><a href="https://github.com/Cormax62/pipex">pipex</a></td>
     <td align="center">125%</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Cormax62/CPP">CPP</a></td>
+    <td align="center"><a href="https://github.com/Cormax62/philopophers">philosophers</a></td>
+    <td align="center">125%</td>
+    <td align="center"><a href="https://github.com/Cormax62/minishell">minishell</a></td>
     <td align="center">100%</td>
-    <td align="center"><a href="https://github.com/Cormax62/Inception">Inception</a></td>
+    <td align="center"><a href="https://github.com/Cormax62/cub3D">cub3d</a></td>
+    <td align="center">125%</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Cormax62/Moduli_CPP">CPP</a></td>
     <td align="center">100%</td>
-    <td align="center"><a href="https://github.com/stescaro99/ft_irc">webserv</a></td>
+    <td align="center"><a href="https://github.com/Cormax62/inception">Inception</a></td>
+    <td align="center">100%</td>
+    <td align="center"><a href="https://github.com/Cormax62/websrv">webserv</a></td>
     <td align="center">125%</td>
   </tr>
   <!-- <tr>
