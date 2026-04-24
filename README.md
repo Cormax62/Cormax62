@@ -22,17 +22,17 @@
 
 ## 🛠️ Languages & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,py,lua,bash,linux,docker,git,github,vscode,dart,flutter,kotlin,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,javascript,py,bash,linux,docker,git,github,vscode)](https://skillicons.dev)
 
 ## 🏆 Featured Projects
 <div align="center">
-  <a href="https://github.com/Cormax62/printf_tester">
+  <a href="https://github.com/Cormax62/webserv">
     <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=printf_tester&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
-  <a href="https://github.com/Cormax62/push_swap_tester"> 
+  <a href="https://github.com/Cormax62/minishell"> 
     <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=push_swap_tester&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
-  <a href="https://github.com/Cormax62/gnl_tester">
+  <a href="https://github.com/Cormax62/inception">
     <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=gnl_tester&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
 </div>
@@ -52,13 +52,13 @@
     <td align="center"><a href="https://github.com/Cormax62/Libft">Libft</a></td>
     <td align="center">125%</td>
     <td align="center"><a href="https://github.com/Cormax62/gnl">get_next_line</a></td>
-    <td align="center">125%</td>
+    <td align="center">100%</td>
     <td align="center"><a href="https://github.com/Cormax62/Printf">ft_printf</a></td>
-    <td align="center">125%</td>
+    <td align="center">100%</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Cormax62/Push_swap">push_swap</a></td>
-    <td align="center">125%</td>
+    <td align="center">100%</td>
     <td align="center"><a href="https://github.com/Cormax62/So_long">so_long</a></td>
     <td align="center">125%</td>
     <td align="center"><a href="https://github.com/Cormax62/Pipex">pipex</a></td>
@@ -68,7 +68,7 @@
     <td align="center"><a href="https://github.com/Cormax62/Philopophers">philosophers</a></td>
     <td align="center">125%</td>
     <td align="center"><a href="https://github.com/Cormax62/Minishell">Minishell</a></td>
-    <td align="center">125%</td>
+    <td align="center">100%</td>
     <td align="center"><a href="https://github.com/Cormax62/Cub3D">cub3d</a></td>
     <td align="center">125%</td>
   </tr>
@@ -76,21 +76,21 @@
     <td align="center"><a href="https://github.com/Cormax62/CPP">CPP</a></td>
     <td align="center">100%</td>
     <td align="center"><a href="https://github.com/Cormax62/Inception">Inception</a></td>
-    <td align="center">125%</td>
-    <td align="center"><a href="https://github.com/stescaro99/ft_irc">ft_irc</a></td>
+    <td align="center">100%</td>
+    <td align="center"><a href="https://github.com/stescaro99/ft_irc">webserv</a></td>
     <td align="center">125%</td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center"><a href="https://github.com/stescaro99/ft_trascendence">ft_trascendence</a></td>
     <td align="center">125%</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-  </tr>
+  </tr> -->
 </table>
 
-## 42's Masteries
+<!-- ## 42's Masteries
 
 | Project         | Status          |
 |-----------------|-----------------|
@@ -98,26 +98,7 @@
 | [ft_hangouts](https://github.com/Cormax62/ft_hangouts) | 125% |
 | [Swifty Protein](https://github.com/Cormax62/Swifty_Protein) | in progress |
 | [avaj_launcher](https://github.com/Cormax62/avaj_launcher) | 125% |
-| [fix-me](https://github.com/Cormax62/fix-me) | in progress |
-
-## ⚙️ Challenges and Rushes:
-
-| Project         |
-|-----------------|
-| [Fides Project](https://github.com/Cormax62/Fides-Project) |
-| [Structured development](https://github.com/Cormax62/42xunifi-structured-development-2025-mbiagi) |
-| [2048 Rush](https://github.com/Cormax62/2048) |
-| [ft_shmup Rush](https://github.com/Cormax62/ft_shmup) |
-
-
-## My Testers:
-
-| Project | Description |
-| :--- | :--- |
-| [Get Next Line Tester](https://github.com/Cormax62/gnl_tester) | A script to verify the logic and buffer management of GNL. |
-| [Printf Tester](https://github.com/Cormax62/printf_tester) | Test suite covering various flags and conversions for ft_printf. |
-| [Libft Tester](https://github.com/Cormax62/libft_tester) | Unit tests to ensure standard libc behavior in custom functions. |
-| [Push Swap Tester](https://github.com/Cormax62/push_swap_tester) | Tools to check sorting efficiency and validate instruction counts. |
+| [fix-me](https://github.com/Cormax62/fix-me) | in progress | -->
 
 ## Personal Projects:
 
@@ -136,5 +117,5 @@
 
 ## ✉️ Contact me
 
-- Email: [MarcoBiagi28@gmail.com](mailto:MarcoBiagi28@gmail.com)
-- LinkedIn: [Marco-Biagi](https://www.linkedin.com/in/MarcoBiagi/)
+- Email: [marcobiagi2@gmail.com](mailto:marcobiagi2@gmail.com)
+- LinkedIn: [Marco Biagi](https://www.linkedin.com/in/marco-biagi-9653b0405/)
