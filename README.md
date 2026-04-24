@@ -27,13 +27,13 @@
 ## 🏆 Featured Projects
 <div align="center">
   <a href="https://github.com/Cormax62/webserv">
-    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=printf_tester&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
+    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=webserv&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
   <a href="https://github.com/Cormax62/minishell"> 
-    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=push_swap_tester&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
+    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=minishell&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
   <a href="https://github.com/Cormax62/inception">
-    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=gnl_tester&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
+    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=inception&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
 </div>
 
@@ -99,21 +99,6 @@
 | [Swifty Protein](https://github.com/Cormax62/Swifty_Protein) | in progress |
 | [avaj_launcher](https://github.com/Cormax62/avaj_launcher) | 125% |
 | [fix-me](https://github.com/Cormax62/fix-me) | in progress | -->
-
-## Personal Projects:
-
-| Project | Description |
-| :--- | :--- |
-| [Tornelli System](https://github.com/Cormax62/tornelli_system) | An access control management system for physical turnstiles. |
-| [Event Pulse](https://github.com/Cormax62/event_pulse) | A real-time questions tracking and interaction platform. |
-| [Tug of War](https://github.com/Cormax62/tug_of_war) | A digital implementation of the classic Tug of War game. |
-| [RPS game](https://github.com/Cormax62/RPS_game) | A Rock Paper Scissors game implementation. |
-| [AI snake](https://github.com/Cormax62/AI_snake) | An AI snake with Deep Q-Learning |
-| [AI car](https://github.com/Cormax62/AI_car) | An AI car with Deep Q-Learning |
-| [Eco Simulation](https://github.com/Cormax62/ecosystem_simulation) | A simulation of a prey and predators world |
-| [AI tag](https://github.com/Cormax62/AI_tag) | AI agents playing tag|
-| [Evolution Simulation](https://github.com/Cormax62/evolution_simulation) | A simulation of greedy and generous blobs |
-| [Pathfinding Visualizer](https://github.com/Cormax62/pathfinding_visualizer) | Custum A* pathfinding implementation |
 
 ## ✉️ Contact me
 
