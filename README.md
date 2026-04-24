@@ -29,11 +29,11 @@
   <a href="https://github.com/Cormax62/webserv">
     <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=webserv&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
-  <a href="https://github.com/Cormax62/minishell"> 
-    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=minishell&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
-  </a>
-  <a href="https://github.com/Cormax62/inception">
+  <a href="https://github.com/Cormax62/inception"> 
     <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=inception&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
+  </a>
+  <a href="https://github.com/Cormax62/minishell">
+    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=minishell&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
 </div>
 
