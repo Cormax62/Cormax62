@@ -65,7 +65,7 @@
     <td align="center">125%</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Cormax62/philopophers">philosophers</a></td>
+    <td align="center"><a href="https://github.com/Cormax62/philosophers">philosophers</a></td>
     <td align="center">125%</td>
     <td align="center"><a href="https://github.com/Cormax62/minishell">minishell</a></td>
     <td align="center">100%</td>
