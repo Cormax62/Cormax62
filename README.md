@@ -57,9 +57,9 @@
     <td align="center">100%</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Cormax62/Push_swap">push_swap</a></td>
+    <td align="center"><a href="https://github.com/Cormax62/push_swap">push_swap</a></td>
     <td align="center">100%</td>
-    <td align="center"><a href="https://github.com/Cormax62/so_long">so_long</a></td>
+    <td align="center"><a href="https://github.com/Cormax62/so_long_zelda">so_long</a></td>
     <td align="center">125%</td>
     <td align="center"><a href="https://github.com/Cormax62/pipex">pipex</a></td>
     <td align="center">125%</td>
