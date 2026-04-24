@@ -6,9 +6,9 @@
 
 ## 42 Profile
 <div align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/greenbinary/mbiagi?1337Badge=off&UM6P=off" alt="mbiagi's 42 stats" />
-  </a>
+ <a href="https://42cv.dev">
+   <img src="https://42cv.dev/api/badge/cmocr5bmf00020kqn16weomwg/stats?cursusId=21&coalitionId=284" alt="mbiagi's 42 stats"/>
+ </a>
 </div>
 
 ## 📊 GitHub Stats <img align="right" width="100" src="https://komarev.com/ghpvc/?username=mbiagi&label=PROFILE+VIEWS">
