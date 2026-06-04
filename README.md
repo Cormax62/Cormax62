@@ -77,7 +77,7 @@
     <td align="center">100%</td>
     <td align="center"><a href="https://github.com/Cormax62/inception">Inception</a></td>
     <td align="center">100%</td>
-    <td align="center"><a href="https://github.com/Cormax62/websrv">webserv</a></td>
+    <td align="center"><a href="https://github.com/Cormax62/webserv">webserv</a></td>
     <td align="center">125%</td>
   </tr>
   <!-- <tr>
