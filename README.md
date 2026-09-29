@@ -90,6 +90,26 @@
   </tr>
 </table>
 
+## 42's Mastery projects
+<table>
+  <tr>
+    <th align="center">Project</th>
+    <th align="center">Status</th>
+    <th align="center">Project</th>
+    <th align="center">Status</th>
+    <th align="center">Project</th>
+    <th align="center">Status</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Cormax62/libasm">libasm</a></td>
+    <td align="center">ongoing</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
+
 ## Other projects
 
 <table>
