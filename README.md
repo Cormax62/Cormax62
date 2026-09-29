@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Marco Biagi
 
 🎓 42Firenze Applicative software development Mastery student  
-💻 Passionate about problem solving, AI and game development  
-🌱 Currently working on: ft_trascendence
+💻 Passionate about problem solving, AI, game development and cyber security
+🌱 Currently working on: libasm
 
 ## 42 Profile
 <div align="center">
