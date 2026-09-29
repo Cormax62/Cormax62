@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-zeta-nine-54.vercel.app/api?username=Cormax62&show_icons=true&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&border_color=D4AF37&count_private=true&include_all_commits=true&hide_border=true" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Cormax62&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=shadow_red"" />
   </a>
   <img height="180em" src="https://github-readme-stats-zeta-nine-54.vercel.app/api/top-langs/?username=Cormax62&layout=compact&bg_color=000000&title_color=D4AF37&text_color=E5C07B&hide_border=true&langs_count=8" />
 </div>
@@ -24,8 +24,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,javascript,py,bash,linux,docker,git,github,vscode)](https://skillicons.dev)
 
+<!-- <div align="center">
 ## 🏆 Featured Projects
-<div align="center">
   <a href="https://github.com/Cormax62/webserv">
     <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=webserv&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
@@ -35,7 +35,7 @@
   <a href="https://github.com/Cormax62/minishell">
     <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=minishell&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
   </a>
-</div>
+</div> -->
 
 ## 42's Common Core
 
