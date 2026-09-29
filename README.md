@@ -83,10 +83,10 @@
   <tr>
     <td align="center"><a href="https://github.com/stescaro99/ft_trascendence">ft_trascendence</a></td>
     <td align="center">125%</td>
+    <!-- <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"></td> -->
   </tr>
 </table>
 
@@ -95,11 +95,11 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Cormax62/easy_sharingan">easy_sharingan</a></td>
+    <!-- <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"></td> -->
   </tr>
 </table>
 
