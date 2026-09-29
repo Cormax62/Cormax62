@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marco Biagi
 
-🎓 42Firenze Common Core student  
+🎓 42Firenze Applicative software development Mastery student  
 💻 Passionate about problem solving, AI and game development  
 🌱 Currently working on: ft_trascendence
 
