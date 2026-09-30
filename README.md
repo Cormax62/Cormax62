@@ -38,6 +38,12 @@
   <a href="https://github.com/Cormax62/philosopher">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Cormax62&repo=Cormax62%2Fphilosopher&description_lines_count=2&theme=aura_dark" />
   </a>
+  <a href="https://github.com/Cormax62/push-swap">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Cormax62&repo=Cormax62%2Fpush-swap&description_lines_count=2&theme=aura_dark" />
+  </a>
+  <a href="https://github.com/Cormax62/cub3D">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Cormax62&repo=Cormax62%2Fcub3D&description_lines_count=2&theme=aura_dark" />
+  </a>
 </div>
 
 ## 42's Common Core
