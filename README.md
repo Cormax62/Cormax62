@@ -17,25 +17,28 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Cormax62&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=shadow_red"" />
   </a>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=h-mavi&layout=compact&langs_count=6&theme=shadow_red" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Cormax62&layout=compact&langs_count=6&theme=shadow_red" />
 </div>
 
 ## 🛠️ Languages & Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,javascript,py,bash,linux,docker,git,github,vscode)](https://skillicons.dev)
 
-<!-- <div align="center">
 ## 🏆 Featured Projects
+<div align="center">
   <a href="https://github.com/Cormax62/webserv">
-    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=webserv&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Cormax62&repo=Cormax62%2Fwebserv&description_lines_count=2&theme=shadow_red" />
   </a>
   <a href="https://github.com/Cormax62/inception"> 
-    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=inception&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Cormax62&repo=Cormax62%2Finception&description_lines_count=2&theme=shadow_red" />
   </a>
   <a href="https://github.com/Cormax62/minishell">
-    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=Cormax62&repo=minishell&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Cormax62&repo=Cormax62%2Fminishell&description_lines_count=2&theme=shadow_red" />
   </a>
-</div> -->
+  <a href="https://github.com/Cormax62/philosopher">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Cormax62&repo=Cormax62%2Fphilosopher&description_lines_count=2&theme=shadow_red" />
+  </a>
+</div>
 
 ## 42's Common Core
 
@@ -65,7 +68,7 @@
     <td align="center">125%</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Cormax62/philosophers">philosophers</a></td>
+    <td align="center"><a href="https://github.com/Cormax62/philosopher">philosophers</a></td>
     <td align="center">125%</td>
     <td align="center"><a href="https://github.com/Cormax62/minishell">minishell</a></td>
     <td align="center">100%</td>
