@@ -17,7 +17,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Cormax62&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=shadow_red"" />
   </a>
-  <img height="180em" src="https://github-readme-stats-zeta-nine-54.vercel.app/api/top-langs/?username=Cormax62&layout=compact&bg_color=000000&title_color=D4AF37&text_color=E5C07B&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=h-mavi&layout=compact&langs_count=6&theme=shadow_red" />
 </div>
 
 ## 🛠️ Languages & Skills
