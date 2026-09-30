@@ -15,9 +15,9 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Cormax62&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=shadow_red"" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Cormax62&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=aura_dark"" />
   </a>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Cormax62&layout=compact&langs_count=6&theme=shadow_red" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Cormax62&layout=compact&langs_count=6&theme=aura_dark" />
 </div>
 
 ## 🛠️ Languages & Skills
@@ -27,16 +27,16 @@
 ## 🏆 Featured Projects
 <div align="center">
   <a href="https://github.com/Cormax62/webserv">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Cormax62&repo=Cormax62%2Fwebserv&description_lines_count=2&theme=shadow_red" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Cormax62&repo=Cormax62%2Fwebserv&description_lines_count=2&theme=aura_dark" />
   </a>
   <a href="https://github.com/Cormax62/inception"> 
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Cormax62&repo=Cormax62%2Finception&description_lines_count=2&theme=shadow_red" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Cormax62&repo=Cormax62%2Finception&description_lines_count=2&theme=aura_dark" />
   </a>
   <a href="https://github.com/Cormax62/minishell">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Cormax62&repo=Cormax62%2Fminishell&description_lines_count=2&theme=shadow_red" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Cormax62&repo=Cormax62%2Fminishell&description_lines_count=2&theme=aura_dark" />
   </a>
   <a href="https://github.com/Cormax62/philosopher">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Cormax62&repo=Cormax62%2Fphilosopher&description_lines_count=2&theme=shadow_red" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Cormax62&repo=Cormax62%2Fphilosopher&description_lines_count=2&theme=aura_dark" />
   </a>
 </div>
 
