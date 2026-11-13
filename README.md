@@ -90,7 +90,7 @@
     <td align="center">125%</td> 
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Cormax/ChessZ">ft_trascendence</a></td>
+    <td align="center"><a href="https://github.com/Cormax62/ChessZ">ft_trascendence</a></td>
     <td align="center">125%</td>
     <!-- <td align="center"></td>
     <td align="center"></td>
